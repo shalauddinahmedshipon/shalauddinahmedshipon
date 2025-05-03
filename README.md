@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746273595/Untitled_hecxw7.png" alt="Welcome banner" style="max-width:100%; width:"1200px"; height:auto;" />
+  <img  src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746274628/Untitled_2_1_zr7k0z.png" alt="Welcome banner" style="max-width:100%;  height:auto;" />
 </p>
 <h1 align="center">Hi 👋, I'm Md.Shipon</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
