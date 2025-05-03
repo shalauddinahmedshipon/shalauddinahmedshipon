@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋, I'm John Smith
 
-<!--
-**shalauddinahmedshipon/shalauddinahmedshipon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about building modern web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack  
+- 🔹 Languages: JavaScript, TypeScript, Python  
+- 🔹 Frontend: React, Next.js, HTML/CSS  
+- 🔹 Backend: Node.js, Express, MongoDB  
+- 🔹 Tools: Git, Docker, VS Code  
+
+📈 GitHub Stats  
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=radical)
+
+📫 Connect with me  
+- LinkedIn: [linkedin.com/in/johnsmith](https://linkedin.com/in/johnsmith)  
+- Portfolio: [johnsmith.dev](https://johnsmith.dev)  
+- Email: johnsmith@example.com
+
+---
+
+⚡ Fun fact: I love contributing to open-source and writing dev blogs!
