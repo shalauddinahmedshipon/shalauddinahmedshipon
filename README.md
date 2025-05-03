@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746273595/Untitled_hecxw7.png" alt="Welcome banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Md.Shipon</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
