@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalauddinahmedshipon" alt="shalauddinahmedshipon" /></a> </p>
 
-- 🔭 I’m currently working as a Mern stack developere [in SoftyPy Pvt Ltd.](https://softypy.com/)
+- 🔭 I’m currently working as a Mern stack developer in [ SoftyPy Pvt Ltd.](https://softypy.com/)
 
 - 🌱 I’m currently learning **full stack development.**
 
