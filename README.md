@@ -1,8 +1,19 @@
 <p align="center">
   <img  src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746274628/Untitled_2_1_zr7k0z.png" alt="Welcome banner" style="max-width:100%;  height:auto;" />
 </p>
-<h1 align="center">Hi 👋, I'm Md.Shipon</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h1 align="center">Assalamualikum 👋, I'm Muhammad Shipon</h1>
+<h4 align="center">I'm a MERN Stack Developer with 6 months of professional experience at a startup called **Softypy**. I specialize in building scalable full-stack web applications using modern JavaScript technologies.</h4>
+
+#### 🧠 Tech Stack
+- **Frontend:** React, Next.js, Redux Toolkit, RTK Query,React Query, TypeScript, JavaScript, Tailwind CSS, ShadCN, Material UI
+- **Backend:** Node.js, Express.js, JWT, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Others:** Git & GitHub, API Integration, Responsive UI Design, Clean Code Practices
+
+---
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalauddinahmedshipon&label=Profile%20views&color=0e75b6&style=flat" alt="shalauddinahmedshipon" /> </p>
 
