@@ -2,7 +2,7 @@
   <img  src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746274628/Untitled_2_1_zr7k0z.png" alt="Welcome banner" style="max-width:100%;  height:auto;" />
 </p>
 <h1 align="center">Assalamualikum 👋, I'm Muhammad Shipon</h1>
-<h4 align="center">I'm a MERN Stack Developer with 6 months of professional experience at a startup called **Softypy**. I specialize in building scalable full-stack web applications using modern JavaScript technologies.</h4>
+<h4 align="center">I'm a MERN Stack Developer with 7 months of professional experience at a startup called **Softypy**. I specialize in building scalable full-stack web applications using modern JavaScript technologies.</h4>
 
 #### 🧠 Tech Stack
 - **Frontend:** React, Next.js, Redux Toolkit, RTK Query,React Query, TypeScript, JavaScript, Tailwind CSS, ShadCN, Material UI
