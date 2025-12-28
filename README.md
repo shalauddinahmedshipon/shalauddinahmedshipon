@@ -60,7 +60,7 @@ user-focused applications.</h4>
 
 - 📫 How to reach me **shalauddinahmedshipon2018@gmail.com** | **01862030107**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view](https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view](https://drive.google.com/file/d/1-msFC5Xhof8EkDnjfJfPFpEXBGdYYerM/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/1-msFC5Xhof8EkDnjfJfPFpEXBGdYYerM/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
