@@ -2,13 +2,15 @@
   <img  src="https://res.cloudinary.com/dplg1mhic/image/upload/v1746274628/Untitled_2_1_zr7k0z.png" alt="Welcome banner" style="max-width:100%;  height:auto;" />
 </p>
 <h1 align="center">Assalamualikum 👋, I'm Muhammad Shipon</h1>
-<h4 align="center">I'm a MERN Stack Developer with 7 months of professional experience at a startup called **Softypy**. I specialize in building scalable full-stack web applications using modern JavaScript technologies.</h4>
+<h4 align="center">Junior Full-Stack Developer with 1+ years of professional experience building production SaaS platforms. Specialized in NestJS backend development, including payment integrations and multi-tenant systems, complemented by solid React/Next.js frontend skills. Actively learning DSA to enhance problem-solving abilities. Passionate about creating scalable,
+user-focused applications.</h4>
 
 #### 🧠 Tech Stack
-- **Frontend:** React, Next.js, Redux Toolkit, RTK Query,React Query, TypeScript, JavaScript, Tailwind CSS, ShadCN, Material UI
-- **Backend:** Node.js, Express.js, JWT, REST APIs
-- **Database:** MongoDB, Mongoose
-- **Others:** Git & GitHub, API Integration, Responsive UI Design, Clean Code Practices
+- **Language:** LANGUAGE : C, C++, Javascript, Typescript, SQL
+- **Frontend:** React, Next.js, Redux Toolkit, RTK Query,React Query,Zustand,Tailwind CSS, ShadCN, Material UI
+- **Backend:** Node.js,Nest.js, Express.js, JWT,Docker, Socket.io,Webhooks,Firebase, REST APIs
+- **Database:** MongoDB, Mongoose, PostgresQL, Prisma, Redis
+- **Others:** Database Design, Git & GitHub, API Integration, Responsive UI Design, Clean Code Practices
 
 ---
 
