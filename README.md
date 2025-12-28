@@ -21,15 +21,43 @@ user-focused applications.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalauddinahmedshipon" alt="shalauddinahmedshipon" /></a> </p>
 
-- 🔭 I’m currently working as a Mern stack developer in [ SoftyPy Pvt Ltd.](https://softypy.com/)
+## 💼 EXPERIENCE
 
-- 🌱 I’m currently learning **full stack development.**
+### Backend Developer  
+**Softvence Agency** — Dhaka, Bangladesh  
+*May 2025 – Present*
 
-- 👨‍💻 All of my projects are available at [https://shipon-portfolio-client.vercel.app/](https://shipon-portfolio-client.vercel.app/)
+- Developing scalable backend systems using **NestJS, Prisma, and PostgreSQL** for multiple client-based SaaS platforms.
+- Actively working on **10+ international client projects**.
+- Project domains include:
+  - **Classified Ads Platforms**
+  - **Multiple types of SaaS applications**
+  - **E-commerce platforms**
+- Implemented core backend features such as:
+  - Secure payment processing
+  - Role-based access control (RBAC)
+  - Real-time functionalities
+  - API design and database architecture
+- Focused on performance, security, and maintainable backend architecture.
 
-- 📫 How to reach me **shalauddinahmedshipon@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view](https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view)
+### MERN Stack Developer  
+**SoftyPy Pvt Ltd.** — Dhaka, Bangladesh  
+*Nov 2024 – May 2025*
+
+- Built **two complete full-stack dynamic web applications** from scratch.
+- Technologies used: **React, Next.js, Redux Toolkit, Node.js, Express, MongoDB**.
+- Both projects included:
+  - Fully functional **admin dashboards**
+  - Dynamic content management (CMS-style control from admin panel)
+  - Authentication and authorization
+  - RESTful API integration
+- Delivered production-ready applications with clean UI, optimized performance, and scalable backend logic.
+
+- 📫 How to reach me **shalauddinahmedshipon2018@gmail.com** | **01862030107**
+
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view](https://drive.google.com/file/d/1Kn1Y3VBsF9c52CDr0FdgPsu7n-bjV7dd/view](https://drive.google.com/file/d/1-msFC5Xhof8EkDnjfJfPFpEXBGdYYerM/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
