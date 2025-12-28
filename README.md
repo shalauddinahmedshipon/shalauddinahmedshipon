@@ -19,22 +19,6 @@ user-focused applications.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalauddinahmedshipon&label=Profile%20views&color=0e75b6&style=flat" alt="shalauddinahmedshipon" /> </p>
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalauddinahmedshipon&show_icons=true&theme=default" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shalauddinahmedshipon&theme=onedark&no-frame=true&column=7" />
-</p>
 
 
 ## 💼 EXPERIENCE
