@@ -6,7 +6,7 @@
 user-focused applications.</h4>
 
 #### 🧠 Tech Stack
-- **Language:** LANGUAGE : C, C++, Javascript, Typescript, SQL
+- **Language:** C, C++, Javascript, Typescript, SQL
 - **Frontend:** React, Next.js, Redux Toolkit, RTK Query,React Query,Zustand,Tailwind CSS, ShadCN, Material UI
 - **Backend:** Node.js,Nest.js, Express.js, JWT,Docker, Socket.io,Webhooks,Firebase, REST APIs
 - **Database:** MongoDB, Mongoose, PostgresQL, Prisma, Redis
