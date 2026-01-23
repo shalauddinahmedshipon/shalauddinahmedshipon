@@ -25,7 +25,7 @@ user-focused applications.</h4>
 
 ### Backend Developer  
 **Softvence Agency** — Dhaka, Bangladesh  
-*May 2025 – Present*
+*May 2025 – Jan 2026*
 
 - Developing scalable backend systems using **NestJS, Prisma, and PostgreSQL** for multiple client-based SaaS platforms.
 - Actively working on **10+ international client projects**.
