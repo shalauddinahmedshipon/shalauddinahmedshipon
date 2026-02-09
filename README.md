@@ -80,8 +80,24 @@ user-focused applications.</h4>
 <img src="https://res.cloudinary.com/drxigac9l/image/upload/v1770137699/skill/iskqb3nhtwqdgdc28bc2.png" alt="C++" width="40" height="40"/>
 </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalauddinahmedshipon&show_icons=true&locale=en&layout=compact" alt="shalauddinahmedshipon" /></p>
+<!-- After your Tech Stack or Experience section -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalauddinahmedshipon&show_icons=true&locale=en" alt="shalauddinahmedshipon" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalauddinahmedshipon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalauddinahmedshipon&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<!-- You already have streak stats here -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalauddinahmedshipon&" alt="shalauddinahmedshipon" /></p>
+
+<!-- Optional trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shalauddinahmedshipon&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalauddinahmedshipon&" alt="shalauddinahmedshipon" /></p> -->
