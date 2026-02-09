@@ -80,8 +80,8 @@ user-focused applications.</h4>
 <img src="https://res.cloudinary.com/drxigac9l/image/upload/v1770137699/skill/iskqb3nhtwqdgdc28bc2.png" alt="C++" width="40" height="40"/>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalauddinahmedshipon&show_icons=true&locale=en&layout=compact" alt="shalauddinahmedshipon" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalauddinahmedshipon&show_icons=true&locale=en&layout=compact" alt="shalauddinahmedshipon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalauddinahmedshipon&show_icons=true&locale=en" alt="shalauddinahmedshipon" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalauddinahmedshipon&show_icons=true&locale=en" alt="shalauddinahmedshipon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalauddinahmedshipon&" alt="shalauddinahmedshipon" /></p>
