@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://res.cloudinary.com/drxigac9l/image/upload/v1770661732/banner_kpmf3e.jpg" alt="Welcome banner" style="max-width:100%;  height:auto;" />
+  <img  src="https://res.cloudinary.com/drxigac9l/image/upload/v1770661946/image_2_bup3xz.jpg" style="max-width:100%;  height:auto;" />
 </p>
 <h1 align="center">Assalamualikum 👋, I'm Muhammad Shipon</h1>
 <h4 align="center">Junior Full-Stack Developer with 1+ years of professional experience building production SaaS platforms. Specialized in NestJS backend development, including payment integrations and multi-tenant systems, complemented by solid React/Next.js frontend skills. Actively learning DSA to enhance problem-solving abilities. Passionate about creating scalable,
